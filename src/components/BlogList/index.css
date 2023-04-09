@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.blogList_container {
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+}

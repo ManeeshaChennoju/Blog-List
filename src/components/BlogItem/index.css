@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.blogItem_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.titleAndDate {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.title {
+  color: black;
+  font-weight: 900;
+  font-size: 22px;
+}
+
+.date {
+  color: rgb(112, 108, 108);
+}
+
+.description {
+  color: rgb(88, 87, 87);
+}
+.hrLine {
+  border: 1px solid rgb(184, 181, 181);
+  width: 100%;
+}
